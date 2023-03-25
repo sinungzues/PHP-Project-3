@@ -41,7 +41,7 @@ body{
 }
 .banner{
     height:300px;
-    background-image: url(img/banner.jpg);
+    background-image: url(../img/banner.jpg);
     background-position: 150px -50px;
     background-repeat: no-repeat;
 }
@@ -67,7 +67,7 @@ body{
 }
 .feedback{
     height: 300px;
-    background-image: url(img/feedback.jpg);
+    background-image: url(../img/feedback.jpg);
     background-repeat: no-repeat;
     background-position: 35px 0;
 }
@@ -80,7 +80,7 @@ body{
 }
 .about{
     height: 400px;
-    background-image: url(img/about.jpg);
+    background-image: url(../img/about.jpg);
     background-position: 50%;
     background-repeat: no-repeat;
 }

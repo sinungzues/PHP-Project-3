@@ -5,7 +5,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: white;
-    background-image: url(img/background.png);
+    background-image: url(../img/background.png);
 }
 .container{
     width: 1000px;
@@ -97,8 +97,6 @@ body{
 .footer{
     background-color: #333333;
     padding: 10px;
-}
-.footer p{
     color: #eaeaea;
     text-align: center;
     font-size: 15px;
